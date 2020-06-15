@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <title>📚 Valentina Nikolaeva`s CARRICULUM VITAE</title>
+
+    <h2>CARRICULUM VITAE</h2>
+
+</head>
+
+
+
+<link rel="stylesheet" href="css/styles.css">
+<h3>Contact Information</h3>
+
+<p>Name: Valentina Nikolaeva</p>
+<p>Address Bulgaria, Sofia</p>
+<p>Mobile number: +359 899149987</p>
+<p>Email: vanklv@gmail.com</p>
+
+<h3>Summary</h3>
+<p>Passionate Quality Assurance Specialist with 10+ years experience. </p>
+<h3>Technologies used</h3>
+<p>HTML, CSS, TFS, Jira, VMware servers, Microsoft Office Packages: Excel, Word, Paint, Power Point, Outlook, Visual Studio, Visual Studio Code, Eclipse, PowerShell, Active Directory, TestLink, Microsoft Teams, Skype, Webex, Slack,Chrome - DOM, Internet
+    Explorer, FireFox, Edge, Windows OS.
+</p>
+
+
+<h3>Experience</h3>
+
+
+<body>
+    <table>
+
+        <thead>
+
+            <tr>
+                <th>Dates</th>
+                <th>Company</th>
+                <th>Position</th>
+                <th>Responsibilities</th>
+
+            </tr>
+        </thead>
+        <tr>
+            <td>April 2020 April 2020</td>
+            <td>Bulpos Experian BM</td>
+            <td>Quality Assurance</td>
+            <td>
+                <p>Participation in onboarding training sessions to gain knowledge about the system`s specifics. Gathering project information, close work with Business Analysts and Developers to create Test documentation and execute Tests for the internally
+                    planned features for development. Participation to daily Scrum Stand-up meetings with Development Team, Data Base Team, Business Analysts and the Scrum Master. Submission in the tracking system tasks with detailed information about
+                    the Test research, Test case creation, Test case execution as well as registered deviations and defects if found for further cooperation with Development Team to fix and retest fixes later on. Creation of Functional Test cases in the
+                    Test Suite, structured by Sprints. Technologies used : <a href=" https://www.atlassian.com/software/jira ">Jira </a>, Microsoft Word, Microsoft Excel,
+                    <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook "> Microsoft Outlook,
+        </a><a href="www.webex.com "> Webex</a>. </p>
+            </td>
+
+        </tr>
+        <tr>
+            <td>August 2019 March 2020</td>
+            <td>Bulpos SolarWinds </td>
+            <td>Quality Assurance</td>
+            <td>
+                <p> Participation in onboarding training sessions to gain knowledge about the system`s specifics. Participation in the meeting discussions, research, analysis, creation and execution of a structured Test documentation for the outstanding,
+                    currently reported issues and for planned for development new functionalities. Tracking in agreed fashion and reporting to the Development the identified defects. Test Design and Test Execution during the Sprint, execution of Regression
+                    Test Suite at the end of the Sprint. Collaboration with Team members to identify and analyse the root of the reported issues to remove product`s defect and validate fixes as early as possible. Ensure whether execution of the planned
+                    Test cycle has been completed successfully and the product covers minimum of the agreed Acceptance Criteria for varios Operating Systems during the Sprint and after the Regression testing. Preparing and testing locally the BitLocker
+                    volume encryption feature which is included with some Microsoft Windows releases against the internally developed features in a application as well as splitting Disks to several Logical to test partial expressions with enabled features.
+                    Virtualization: creating Virtual Machines on
+                    <a href="www.vmware.comVMWare ">VMware hosts </a>and testing their features and expressions against internally developed application: Snapshots for current VM`s states, adding, editing and removing Notes to a record of particular Virtual
+                    Machine, extracting and controlling remotely information about the state of Virtual Machines, Datastores as well as other functionalities and their technical parameters. Verify the developed functionalities for Windows and run from
+                    application Automation Manager would result with the same behaviour as commands run in PowerShell mode. Used Administrative tool to stop, restart and place under maintenance mode the existing WMware hosts. Creating audio and video
+                    presentations at the end of each Sprint to present the newly delivered functionalities, handling them to the Product Owner and to Development Lead for validation and for further presentation to the vendors of the Company. Verification
+                    of the newly implemented changes in the code, expressed in current version in GIT against the application`s appearance after the deploy. Technologies used : <a href="https://docs.microsoft.com/en-us/powershell/ ">PowerShell</a>,
+                    <a href="https://www.atlassian.com/software/jira ">Jira </a>,
+                    <a href="https://code.visualstudio.com/ ">VS Code</a>, GIT, Microsoft Teams, Microsoft Outlook, HTML, Microsoft Word, Microsoft Paint and Power Point for creating documentations and presentations and recording videos, Virtual Machines
+                    with different Operating Systems: Windows 2007; Windows 10; Windows Server 2008; Windows Server 2012; Vista; Windows Server 2012r2; Windows Server 2016; Windows Server 2019; Windows Server 2019 for test purposes.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>April 2019 May 2020</td>
+            <td>Bulpos Experian PowerCurve </td>
+            <td>Quality Assurance</td>
+            <td>
+                <p>Participation in onboarding training sessions to gain knowledge about the system`s specifics. Gathering project information (close work with Business Analysts) to create documentation and test the User Interface against newly created Accessability
+                    features for browsers: Chrome and Internet Explorer for Windows. Test Design and Test Execution during the Sprint. Executing Regression tests at the end of the Sprint. Participation to Daily Scrum meetings, Plannings, Retrospectives.
+                    Gathering required information and documentation for Test creation and testing. Creating Test cases. Tracking and reporting identified defects. Communicating and following up on each escalated for additional assistance case. Providing
+                    assistance to Development Team to investigate and fix the problem, cooperation with the Agile ritualts - Retrospectives etc. Explore new approaches and introduce innovative techniques to drive product quality improvements. Collaborate
+                    with Team members to identify, analyze and remove product defects as early as possible. Ensure all planned testing is complete and the product meets agreed Acceptance Criteria. Technologies used: Javascript, Microsoft Teams, Chrome
+                    - DOM, <a href="testlink.org ">TestLink</a>,
+                    <a href="https://www.virtualbox.org/ ">Oracle Virtual Box</a>,
+                    <a href="https://www.w3.org/WAI/standards-guidelines/wcag/ ">Accessibility Standards. </a></p>
+            </td>
+        </tr>
+        <tr>
+            <td>March 2019 April 2019</td>
+            <td>Bulpos Nissan</td>
+            <td>Quality Assurance</td>
+            <td>
+                <p> Participation in onboarding training sessions to gain knowledge about the system`s specifics. Working in a team, performing verification and location of the existing UI elements from business requirements against the existing elements
+                    on customer`s Web catalogues. Participation in the meeting discussions, research, analysis, creation and execution of given tasks.
+                    <a href="https://www.atlassian.com/software/jira ">Jira </a>, Microsoft Teams, Microsoft Excel and <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ">Microsoft Outlook.</a></p>
+            </td>
+        </tr>
+        <tr>
+            <td>February 2019 March 2019</td>
+            <td>Bulpos Staffico</td>
+            <td>Quality Assurance</td>
+            <td>
+                <p>Participation in onboarding training sessions to gain knowledge about the system`s specifics. Working closely with Development team to understand and create Tests for the planned for the Sprint new features for the HR application. Participation
+                    into Team`s daily Stand-up Scrum meetings. Validation as per the Acceptance Criteria the newly deployed by development team functionalities. Functional, Non Functional testing. Technologies used : <a href="https://www.atlassian.com/software/jira ">Jira </a>,
+                    Client`s application, Slack, Microsoft Word and <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ">Microsoft Outlook.</a></p>
+            </td>
+        </tr>
+        <tr>
+            <td>January 2019 February 2019</td>
+            <td>Bulpos PieceOfCake</td>
+            <td>Quality Assurance</td>
+            <td>
+                <p>Participation into Team`s daily Scrum Stand-up meetings. Define Acceptance Criteria, create User Stories, create and execute Test cases based on predefined requirements, provide feedback to the development team. Technologies used: TFS
+                    and Visual Studio, Microsoft Word, Microsoft Paint, Microsoft Excel and <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook "> Microsoft Outlook.</a></p>
+            </td>
+        </tr>
+        <tr>
+            <td>June 2018 July 2018</td>
+            <td>Bulpos Wedou</td>
+            <td>Quality Assurance</td>
+            <td>
+                <p>Participation in onboarding training sessions to gain knowledge about the system`s specifics. Participation into all Scrum meetings: daily Stand-up Planning, Retrospectives. Gathering project information (close work with POs, BAs on international
+                    level). Assisting with Test design, Test Case execution, assuring Test Plan and Test Strategy are as per predefined metrics. Cooperation with other Quality Assurance colleagues to split current Test activities, exchange experience,
+                    information and expectations. Used internal Administrative tool for set up of the different roles to test privileges in the application. Technologies used: Javascript, Chrome - DOM, Microsoft Excel, <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ">Microsoft Outlook </a>and
+                    <a href="https://www.atlassian.com/software/jira "> Jira. </a></p>
+            </td>
+        </tr>
+        <tr>
+            <td>July 2018 December 2018</td>
+            <td>Bulpos Experian BM Norway</td>
+            <td>Quality Assurance</td>
+            <td>
+                <p>Participation in onboarding training sessions to gain knowledge about the system`s specifics. The project`s aim was to modernize the solution based on Service Oriented Architecture /SOA/ and up-to-date UI frameworks and concepts. Performing
+                    research, Test Design, Test Execution, participation into daily Scrum meetings and additional Sprint Plannings and Retrospectives. Gathering project information (close work with Product Owner, Business Analyst and other involved team
+                    members on international level). Creation of Test documentation in Jira. Knowledge transfer to colleagues, Software Test Engineers to continue the Test activities due to end of Test team praticipation. Team size (13 people): 1 Solution
+                    Architect, 4 .Net Developers, 2 Java Developers, 2 Oracle Developers, 3 QAs and 1 QA TL. Technologies used : <a href="https://www.atlassian.com/software/jira ">Jira </a>, SQL Developer, internal UI and <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ">Microsoft Outlook.</a></p>
+            </td>
+        </tr>
+        <tr>
+            <td>March 2018 June 2018</td>
+            <td>Bulpos SBTech</td>
+            <td>Quality Assurance</td>
+            <td>
+                <p>Participation in onboarding training sessions to gain knowledge about the system`s specifics. Testing and verifying complex solution builts for regulated markets in the online gambling in order to ensure, that business is compliant with
+                    technical legislation requirements. Gathering required information and documents and evaluating the information for testing. Creating and writing Test Cases, execution of functional Test cases. Tracking and reporting identified defects.
+                    Following-up on each escalated for additional assistance case. Providing assistance to Development team to investigate and fix deviations, cooperation in the validation process. Participation to the daily Stand-up meetings. Technologies
+                    used: .NET based gambling applications, <a href="https://www.atlassian.com/software/jira ">Jira </a>, Microsoft Excel and <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ">Microsoft Outlook.</a></p>
+            </td>
+        </tr>
+        <tr>
+            <td>July 2017 March 2018</td>
+            <td>Bulpos GBS AppDesigner</td>
+            <td>Quality Assurance</td>
+            <td>
+                <p>Participation in onboarding training sessions to gain knowledge about the system`s specifics. Project for a vendor providing complex solutions and services in the fields of messaging security and workflow for the IBM and Microsoft collaboration
+                    platforms, including workflow management. Working closely with Product Owner, Realease Notes responsible colleague, Developers to receive onboarding and advises for best Test apporaches and to create Test documentation. Testing new
+                    functionalities and current ones. Manage defects by tracking them a in bug tracking system Bugzilla, verifying resolved Bugs. Creation, execution, reexecution of Test cases on reported bugs, execution of the Test cases on newly delivered
+                    functionalities. Focus on newly created UI appearance and functionalities: Filters, Tables, Formatting, Layout, Tooltips. Attention to creation and expression of Domains as well as Active Directory profiles creation and synchronzation
+                    with applications Azure Active Directory, SharePoint, TFS, GBS AppDesigner, Desing Modeler, GBS Form Modeler, Workflow Designer. Technologies used: TFS, Sharepoint, MongoDB, Bugzilla, Microsoft Excel, Skype, Chrome, Internet Explorer
+                    and <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ">Microsoft Outlook.</a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>May 2013 July 2017</td>
+            <td>Axway</td>
+            <td>Software Engineer III</td>
+            <td>
+                <p>Participation in onboarding training sessions to gain knowledge about the system`s specifics. Manage defect`s as per the defined lifecycle (reporting, tracking, escalating, verification of the delivered fix) using bug tracking system HP
+                    QC, Mantis, Jira. Working in Agile enviroment. Creation and execution of Test cases. Design, implement and perform manual Test scripts. Analyze and report issues with the rights for defined roles for the monitored software. End to
+                    End Test case creation and execution, such us integration of the account in ServiceNow, PeopleSoft and Outlook Test environment. Monitoring and helping with the improvement of the existing process of the quality tracking documentation
+                    and execution of the same. Technologies used: <a href="https://www.atlassian.com/software/jira ">Jira </a>, Hp-Quality Center, Mantis, ServiceNow, PeopleSoft and <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ">Microsoft Outlook.</a></p>
+            </td>
+        </tr>
+        <tr>
+            <td>October 2012 May 2013</td>
+            <td>C3i Europe</td>
+            <td>Support Help Desk Analyst Level III</td>
+            <td>
+                <p>Distribute and monitor tasks of the Level I Technicians as per company`s SOPs (Stanadard Operation Procedure). Perform monthly Quality Check of the work of the Level I Technicians, monitoring and remediating their work. Communicate with
+                    end clients in case of miscommunications or complaints. Run reports from an internal tracking system to Tier 2 teams. Escalate outstanding issues to the upper level of management. Assist the work of Level II and Level I technicians.
+                    Perform knowledge transfer if needed. Technologies used: Microsoft Office Packages, Windows OS, Cisco VPN, Siebel, Oracle Clinical Remote Data Capture, Horizon, FTP, Active Directory and <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ">Microsoft Outlook.</a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>October 2010 October 2012</td>
+            <td>C3i Europe</td>
+            <td>Support Help Desk Analyst Level II</td>
+            <td>
+                <p>Distribute and monitor tasks of the Level I Technicians as per company`s SOPs (Stanadard Operation Procedure). Perform monthly Quality Check of the work of the Level I Technicians, monitoring and remediating their work. Communicate with
+                    end clients in case of miscommunications or complaints. Run reports from an internal tracking system to Tier 2 teams. Escalate outstanding issues to the upper level of management. Technologies used: Microsoft Office Packages, Windows
+                    OS, Cisco VPN, Siebel, Oracle Clinical Remote Data Capture, Horizon, FTP, Active Directory and <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ">Microsoft Outlook.</a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>June 2008 October 2010</td>
+            <td>C3i Europe</td>
+            <td>Support Help Desk Analyst Level I</td>
+            <td>
+                <p>Participation in onboarding training sessions to gain knowledge about the system`s specifics. Provide in timely manner adequate technical assistance to the Service Desk`s customers. Resolve incoming telephone requests by listening, identifying
+                    and providing solution taken from the internal knowledge base, to the customer. Perform troubleshooting gradually, navigating clients step by step to resolve the issue on the call or if instructions does not ork to escalate issue to
+                    Tier 2 Support Team for further assistance. Handling incoming email requests with responce in a timely manner Prioritize each handled issue as per SOP`s (Stanadard Operation Procedure) to manage the technical problem. Participate to
+                    daily Stand-up meetings. Technologies used: Microsoft Excel, Microsoft Word, Windows OS, Cisco VPN, Siebel, Oracle Clinical Remote Data Capture, Horizon, FTP, Active Directory and <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ">Microsoft Outlook.</a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>December 2006 June 2008</td>
+            <td>Bella Bulgaria</td>
+            <td>Technical Research Technologist</td>
+            <td>
+                <p>Technical research for innovative technologies and solutions for meat processing industry from worldwide manufacturers to bring as clear and consistent information to the owners of the Holding. Administrative responsibilities: organization
+                    of the participators, personal participation and creation of reports and meeting notes from the daily meetings and distributing them as structured documentation from the taken decisions to the company`s directors from different departments
+                    for further action. Translation of technical documentation for meat processing equipment from Russian, English other languages and handling over to the Personal Assistant of the Owner of the company. Participation to the newest machinery
+                    exihibitons in Europe as IFFA Frankfurt - Germany, to collect and present information internally. Technologies used: Microsoft Excel, Microsoft Word, audio recorders and <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ">Microsoft Outlook.</a></p>
+            </td>
+
+        </tr>
+        <tr>
+            <td>December 2005 December 2006</td>
+            <td>Apex Service</td>
+            <td>Assistant Sales Deptartment</td>
+            <td>
+                <p>Direct communications with Russian clients, assistance handling the received orders. Contact Bulgarian suppliers and provide assistance with coordination of the delivery process of ordered goods to the end client. Work with specific forklift
+                    technical specifications and catalogues to assist and correct orders for the spare parts. Technologies used: Microsoft Excel, Microsoft Word, internal ERP system and <a href="https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ">Microsoft Outlook.</a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>December 2004 September 2005</td>
+            <td>HQ Global Workplaces London</td>
+            <td>Catering Assistant for the Administrative Deptartment</td>
+            <td>
+                <p>Assistance with the organization of company`s meeting rooms for seminars and business meetings, catering service including, orginizing orders for needed beverages.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>January 2003 September 2004</td>
+            <td>Imperial College London</td>
+            <td>Assistant Food Supplying Beverage Manager for Catering Department </td>
+            <td>
+                <p>Working with invoices, client`s orders, tracing documents, correcting information in the internal system from the actual documentation against the content in the local Data Base etc.</p>
+            </td>
+        </tr>
+        <tfoot></tfoot>
+    </table>
+
+    <h3>Languages</h3>
+    <ul>
+        <li>English</li>
+        <li>Bulgarian </li>
+        <li>Russian</li>
+    </ul>
+
+    <h3>Education</h3>
+    <ul>
+        <li><a href="http://www.tu-plovdiv.bg/ ">Technical University</a>- Plovdiv, Bulgaria, Subject: Industrial Management </li>
+        <li><a href="http://egiv-plovdiv.bg/bg/ ">Language School Ivan Vazov</a>- Plovdiv, Bulgaria, Qualifications: Interpreter Russian and Eglish</li>
+        <li><a href="https://schools-moscow.ru/school/gbou-sosh-652/ ">652 GBO Secondary School </a>- Moscow, Russia,
+        </li>
+        <li><a href="https://www.soudanov.org/index.php/istoriya ">Primary School Hristo G. Danov</a>- Plovdiv, Bulgaria,
+        </li>
+    </ul>
+
+    <h3>Courses</h3>
+    <ul>
+        <li><a href="https://www.qualityhouse.com/index.php?page=certification-courses-foundation-level "> Quality House</a> Course ISTQB Foundation Level </li>
+        </li>
+        <li><a href="https://swift.bg/courses/ "> Quality Assurance</a>Practical QA course </li>
+        <li><a href="https://www.udemy.com/ "> Udemy</a> Complete Web Development course</li>
+        <li><a href="https://pragmatic.bg/courses/software-testing-course/ "> Quality Assurance</a> Software Testing Fundamentals course, Test design and organization, Defect management, SDLC, Boundary Value Analysis </li>
+    </ul>
+    </script>
+
+
+</body>
+
+</html>
